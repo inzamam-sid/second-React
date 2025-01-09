@@ -1,0 +1,29 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is the namaste React by Inzamam Siddiqui",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/inzamam-sid/Landing-Page)"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "inzamam",
+    "siddiqui"
+  ],
+  "author": "Inzamam Siddiqui",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
